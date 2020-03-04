@@ -1,9 +1,8 @@
 # ChatAppBackend
 
-technologies:
+technologies: 
+front-end: mobx ,socket.io-client ,react ,sass ,axios
 
-front-end: mobx ,react ,sass ,axios
-
-back-end : node.js ,redis ,mongodb ,express
+back-end : node.js ,socket.io ,redis ,mongodb ,express
 
 https://daniils-todo-app.herokuapp.com/
